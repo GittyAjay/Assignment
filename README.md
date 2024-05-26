@@ -1,3 +1,7 @@
+# Demo
+
+https://github.com/GittyAjay/Assignment/assets/43106735/77ba4a99-1396-40f3-86a0-e7db32580fe9
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
